@@ -106,6 +106,7 @@ val addOns =
         "tokengen",
         "viewstate",
         "wappalyzer",
+	"webdav",
         "webdrivers",
         "webdrivers:webdriverlinux",
         "webdrivers:webdrivermacos",
